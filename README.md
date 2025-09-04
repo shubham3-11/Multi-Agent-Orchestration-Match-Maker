@@ -4,19 +4,7 @@ A  multi-agent system using **Google ADK**, **Gemini** (via `GOOGLE_API_KEY`), a
 
 ## Directory Structure
 
-matchmaking-adk-app/
-├── requirements.txt
-├── .env
-├── README.md
-├── app.py
-├── adk_runner.py
-└── agents/
-    ├── __init__.py
-    ├── conversational_agent.py
-    ├── orchestrator.py
-    └── tools/
-        ├── memory_tools.py
-        └── matching_tools.py
+
 <img width="506" height="504" alt="image" src="https://github.com/user-attachments/assets/b685da33-169f-4f1e-9db9-728a4716e6ac" />
 
 
